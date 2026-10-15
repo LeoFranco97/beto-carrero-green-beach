@@ -1,0 +1,3 @@
+# Amostra de layout, nao e pagina comercial. Fora da busca de proposito.
+User-agent: *
+Disallow: /
